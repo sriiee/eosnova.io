@@ -1,0 +1,34 @@
+{
+  "producer_account_name": "eosnovakorbp",
+  "producer_public_key": "EOS6TiwRHcJ3zrKsVXzYD8tgmVnGfaqRXQsniEhjieCEqUDjyqPXX",
+  "org": {
+    "candidate_name": "NOVA Wallet",
+    "website": "https://novawallet.io",
+    "code_of_conduct": "https://medium.com/eosnova/nova-wallet-code-of-conduct-6cc52c93ccdf",
+    "ownership_disclosure": "https://medium.com/eosnova/ownership-disclosure-e4c8acc44925",
+    "email": "contact@eosnova.io",
+    "branding": {
+      "logo_256": "https://novawallet.io/logo_256.png",
+      "logo_1024": "https://novawallet.io/logo_1024.png",
+      "logo_svg": "https://novawallet.io/logo.svg"
+    },
+    "location": {
+      "name": "Seoul",
+      "country": "KR",
+      "latitude": 37.5707217,
+      "longitude": 126.9810117
+    },
+    "social": {
+      "steemit": "",
+      "twitter": "eosnova_io",
+      "youtube": "",
+      "facebook": "eosnova",
+      "github": "eosnova",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "eosnova",
+      "wechat": ""
+    }
+  },
+  "nodes": []
+}
